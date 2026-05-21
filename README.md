@@ -18,6 +18,6 @@ I am a Software Engineering undergraduate at the University of Karachi (DCS-UBIT
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fabhaiqbal314&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
