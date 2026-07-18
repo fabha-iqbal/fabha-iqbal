@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/fabha-iqbal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=36&height=70&width=300&text=Hi%2C%20I'm%20Fabha%20Iqbal" alt="Fabha Iqbal" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=36&height=70&width=300&text=Fabha%20Iqbal" alt="Fabha Iqbal" />
   </a>
 </p>
 
